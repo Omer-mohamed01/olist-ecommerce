@@ -1,0 +1,13 @@
+1- Can we identify which states have long waiting time orders and cancel their orders?
+(Late deliveries = Bad brand reputation).
+
+2- Can we identify which sellers have long waiting time orders and cancel their orders?
+
+3- Does a high shipping cost directly correlate with a low review score, or are customers
+willing to pay more for speed?
+
+4- Does a long waiting days directly correlate with a low review score?
+
+5-What Are Reasons of Long Waiting Days
+
+6- Does a Size of the Product directly Correlate with a Long Waiting Days ?
